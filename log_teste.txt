@@ -1,0 +1,5 @@
+# Arquivo simulando propriedades do sistema para auditoria
+USER_ROLE=admin
+FILE_TYPE=pdf
+SCOPE=global
+TOKEN=valido
